@@ -1,4 +1,5 @@
 import java.lang.Math;
+
 public class Lab1_deadmemes {
     public static void main(String[] args) {
         short[] c = new short[13];
@@ -15,14 +16,14 @@ public class Lab1_deadmemes {
                 switch(c[i]){
                     case 4: {
                         double amogus = 1-x[j];
-                        amogus = amogus/x[j];
+                        amogus =/ x[j];
                         amogus = Math.pow(amogus, x[j]);
-                        amogus = amogus - 4;
-                        amogus = amogus/3;
-                        amogus = amogus/4;
+                        amogus =- 4;
+                        amogus =/ 3;
+                        amogus =/ 4;
                         double imposter = Math.pow(x[j], 2/x[j]);
                         amogus = Math.pow(amogus, imposter);
-                        amogus = 0.75 + amogus;
+                        amogus =+ 0.75;
                         double Jerma985 = Math.sin(x[j]);
                         Jerma985 = Math.atan(Jerma985);
                         double whentheImposterissus = Jerma985/amogus;
